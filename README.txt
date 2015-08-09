@@ -16,3 +16,5 @@ List of contents
 5_documentation
 	SPMP.docx
 	SRS.docx
+	SDS.docx
+	Test Report.docx
